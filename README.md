@@ -2,7 +2,7 @@
 
 ### Compiladores y Lenguajes de Bajo Nivel
 ### Tarea 1
-### Análisis Lexico
+### Analizador Lexico
 
 ### Integrantes:
 - Andres Maciel 
